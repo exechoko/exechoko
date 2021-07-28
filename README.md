@@ -10,8 +10,9 @@
 <img src="https://i.ibb.co/4wLWr41/C.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://i.ibb.co/8XBxbSZ/java.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.ibb.co/Q6Yq45Y/javascript.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.ibb.co/WDjpd1P/Kotlin-Icon.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.ibb.co/ssq7Pv6/php.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 
 - Mi hoja de vida: https://exemarichal.000webhostapp.com/
 
