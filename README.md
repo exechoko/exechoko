@@ -15,7 +15,7 @@
 <img src="https://i.ibb.co/WtfKJ5X/php.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/exechoko/github-readme-stats">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=exechoko&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=exechoko&theme=dark-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
 <a href="https://github.com/exechoko/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exechoko&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
