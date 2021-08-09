@@ -2,7 +2,7 @@
 
 
 - ⚡ Soy un emprendedor nato con muchas ganas de aprender y seguir capacitandome en todo lo que se refiere al desarrollo de software.
-- 🔭 Actualmente estoy trabajando en el desarrollo de paginas web y aplicaciones mobiles con SO Android
+- 🔭 Actualmente estoy trabajando en el desarrollo de paginas web, aplicaciones para dispositivos móviles con SO Android y aplicaciones Desktop con Qt Creator en C++
 - 🌱 Y estudiando Lic. en Sistemas, mientras realizo capacitaciones en plataformas educativas.
 
 ## Con conocimientos en:
