@@ -15,6 +15,7 @@
 <img src="https://i.ibb.co/WtfKJ5X/php.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://i.ibb.co/Lzb4sG8/800px-Laravel-svg-1.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://i.ibb.co/CPtKg2g/Mysql.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.ibb.co/XXXRrwp/Firebase.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
