@@ -13,7 +13,7 @@
 <img src="https://i.ibb.co/Q6Yq45Y/javascript.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://i.ibb.co/WDjpd1P/Kotlin-Icon.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://i.ibb.co/WtfKJ5X/php.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://i.ibb.co/Sfnry87/laravel-icon.png" width="45px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.ibb.co/Lzb4sG8/800px-Laravel-svg-1.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Mi actividad:
 
